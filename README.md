@@ -3,12 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Alexita!;I'm+a+CS+and+LUA+student.;I+love+coding.;A+big+fan+of+GAMING...)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://twitter.com/preccrep"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/preccrep?color=a2c4c9&logoColor=ffe599&style=for-the-badge">
-  <a href="https://www.preccrep.com/"><img alt="PersonalBlog" src="https://img.shields.io/static/v1?label=personalblog&message=preccrep&color=f4cccc&style=for-the-badge">
-  <a href="https://www.cnblogs.com/preccrep"><img alt="CNBlog" src="https://img.shields.io/static/v1?label=cnblog&message=preccrep&color=b4a7d6&style=for-the-badge">
-</p>
-
 
 <!--START_SECTION:colourise-->
 
