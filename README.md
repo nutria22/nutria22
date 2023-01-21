@@ -13,7 +13,6 @@
 <!--START_SECTION:colourise-->
 
 <p align=center>
-<img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
 <img src="https://img.shields.io/badge/-LUA-233548?style=for-the-badge&logo=LUA"/>
 <img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-badge&logo=javascript"/>
@@ -27,7 +26,6 @@
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=nutria22" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nutria22&theme=xcode" /> </div>
 
 -----
 
