@@ -1,3 +1,6 @@
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/987004372435210261)](https://discord.com/users/987004372435210261)
+
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nutria22&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=nutria22&show_icons=true&theme=tokyonight)
 
